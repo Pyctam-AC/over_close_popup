@@ -1,6 +1,6 @@
 # over close popup
 
-####usePopupClose
+#### usePopupClose
 
 Хук для закрытия попап по нажатию на **esc** или **overlay**.
 
@@ -30,7 +30,8 @@
 <br>
 
 
-===
+---
+
 **Пример кода в App.js**
 
 ```js
