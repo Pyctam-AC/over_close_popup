@@ -62,5 +62,5 @@ import usePopupClose from "../../hooks/usePopupClose";
 https://github.com/Pyctam-AC/over_close_popup.git
 
 
-Данный хук разаработал Рустам Султангалиев 
-https://www.github.com/Pyctam-AC
+Автор хука - Рустам Султангалиев 
+[Pyctam-AC](https://github.com/Pyctam-AC)
